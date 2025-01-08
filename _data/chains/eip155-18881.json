@@ -16,7 +16,7 @@
     "slip44": 1,
     "explorers": [
       {
-        "name": "Ultra Testnet EVM Explorer",
+        "name": "Ultra EVM Testnet Explorer",
         "url": "https://evmexplorer.testnet.ultra.io",
         "standard": "EIP3091"
       }
