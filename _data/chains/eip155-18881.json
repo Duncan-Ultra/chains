@@ -2,7 +2,7 @@
     "name": "Ultra EVM Network Testnet",
     "chain": "Ultra",
     "icon": "ultra",
-    "rpc": ["https://api.testnet.evm.eosnetwork.com"],
+    "rpc": ["https://evm.test.ultra.eosusa.io"],
     "faucets": [],
     "nativeCurrency": {
       "name": "UOS",
