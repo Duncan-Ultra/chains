@@ -1,0 +1,25 @@
+{
+    "name": "Ultra EVM Network Testnet",
+    "chain": "Ultra",
+    "icon": "ultra",
+    "rpc": ["https://api.testnet.evm.eosnetwork.com"],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "UOS",
+      "symbol": "UOS",
+      "decimals": 8
+    },
+    "infoURL": "https://ultra.io/",
+    "shortName": "ultra-testnet",
+    "chainId": 18881,
+    "networkId": 18881,
+    "slip44": 1,
+    "explorers": [
+      {
+        "name": "Ultra EVM Explorer",
+        "url": "https://evmexplorer.testnet.ultra.io",
+        "standard": "EIP3091"
+      }
+    ]
+  }
+  
